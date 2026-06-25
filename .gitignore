@@ -1,0 +1,25 @@
+# Laravel
+src/vendor/
+src/node_modules/
+src/storage/*.key
+src/storage/logs/*
+src/storage/framework/cache/*
+src/storage/framework/sessions/*
+src/storage/framework/views/*
+
+# Entorno
+src/.env
+
+# Composer
+src/composer.lock
+
+# Vite
+src/public/build
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
