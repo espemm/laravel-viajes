@@ -1,5 +1,4 @@
-<h1>CONTACTO</h1>
-<p>Puede contactar en me.micomendez@edu.gva.es</p>@extends('layouts.app')
+@extends('layouts.app')
 
 @section('title', 'Contact')
 

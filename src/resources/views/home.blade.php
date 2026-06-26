@@ -1,5 +1,4 @@
-<h1>PAGINA INDEX</h1>
-<p>Página índice creada en la vista</p>@extends('layouts.app')
+@extends('layouts.app')
 
 @section('title', 'Home')
 
