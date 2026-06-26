@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>@yield('title') - Agencia Viajes Espe</title>
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="https://laravel-viajes.onrender.com/css/style.css">
 </head>
 <body>
     @include('partials.navbar')
